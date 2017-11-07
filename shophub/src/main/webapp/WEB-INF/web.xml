@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>Shophub Servlet</servlet-name>
+  	<description>JAX-RS Tools Generated - Do not modify</description>
+  	<servlet-class></servlet-class>
+  	<load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Shophub Servlet</servlet-name>
+  	<url-pattern>/jaxrs/*</url-pattern>
+  </servlet-mapping>
+</web-app>
